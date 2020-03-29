@@ -80,6 +80,6 @@
     top: 0;
     width: 14px;
     height: 14px;
-    background: url("~assets/img/common/collect.svg") 0 0/14px 14px;
+    background: url(~@/assets/img/common/collect.svg) 0 0/14px 14px;
   }
 </style>

@@ -5,8 +5,8 @@
 </template>
 
 <script>
-  import GridView from 'common/gridView/GridView'
-  import GoodsListItem from './GoodsListItem'
+  import GridView from '@/components/common/gridView/GridView';
+  import GoodsListItem from './GoodsListItem';
 
   export default {
     name: "GoodsList",
